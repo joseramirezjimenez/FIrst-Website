@@ -1,0 +1,23 @@
+body {
+    background-color: lightgray;
+}
+h1 {
+    text-align: center;
+}
+ul, ol {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    font-size: larger
+}
+h2:hover {
+    background-color: lightpink;
+}
+h1:hover {
+    background-color: lightpink;
+}
+img {
+    width: 100px;
+    height: auto;
+    filter: drop-shadow(5px 5px 5px #444444)
+}
